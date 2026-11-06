@@ -1,0 +1,6 @@
+{
+  "name": "LiquidFun Water Character Lab",
+  "description": "مختبر محاكاة الشخصية المائية المستند فيزيائياً إلى محرك Google LiquidFun لنظام الجسيمات المائعة وقوى التماسك والتشوه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
